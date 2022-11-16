@@ -1,5 +1,5 @@
 jupyter/.cache
-jupyter/ipynb_checkpoints
+jupyter/.ipynb_checkpoints
 jupyter/.ipython
 jupyter/.jupyter
 jupyter/.local
